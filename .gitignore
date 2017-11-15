@@ -3,6 +3,8 @@
 
 ### Original ###
 ApiKey.cs
+ApiKeys.cs
+Secret.cs
 Secrets.cs
 Resource.Designer.cs
 
